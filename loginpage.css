@@ -1,0 +1,8 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: palevioletred;
+}
+.login-container, .form-group , .options, .submit{
+    margin-bottom: 40px;
+}
